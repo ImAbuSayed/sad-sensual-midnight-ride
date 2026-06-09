@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sad-sensual-midnight-ride/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sad Sensual Midnight Ride](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-sensual-midnight-ride/) |
+| **Get License** | [Get License For Sad Sensual Midnight Ride](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sad-sensual-midnight-ride/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `faccf982d04a6930c85a2cc45cb1e8b2ea09adc6f5cbdd1606cd94901418cbe3` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
